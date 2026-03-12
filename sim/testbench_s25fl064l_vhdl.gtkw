@@ -1,0 +1,55 @@
+[*]
+[*] GTKWave Analyzer v3.3.104 (w)1999-2020 BSI
+[*] Thu Mar 12 14:15:16 2026
+[*]
+[dumpfile] "/home/mfj/git/PRIVATE/MJoergen/s25fl064l/sim/testbench_s25fl064l_vhdl.ghw"
+[dumpfile_mtime] "Thu Mar 12 13:56:23 2026"
+[dumpfile_size] 575209
+[savefile] "/home/mfj/git/PRIVATE/MJoergen/s25fl064l/sim/testbench_s25fl064l_vhdl.gtkw"
+[timestart] 1200330506000000
+[size] 1452 878
+[pos] -1 -1
+*-29.202164 1200331799200000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] top.
+[treeopen] top.testbench_s25fl064l_vhdl.
+[treeopen] top.testbench_s25fl064l_vhdl.dut.
+[treeopen] top.testbench_s25fl064l_vhdl.dut.behavior.
+[sst_width] 345
+[signals_width] 220
+[sst_expanded] 1
+[sst_vpaned_height] 421
+@800200
+-dut
+@28
+top.testbench_s25fl064l_vhdl.dut.csneg
+top.testbench_s25fl064l_vhdl.dut.sck
+top.testbench_s25fl064l_vhdl.dut.si
+top.testbench_s25fl064l_vhdl.dut.so
+top.testbench_s25fl064l_vhdl.dut.wpneg
+top.testbench_s25fl064l_vhdl.dut.resetneg
+top.testbench_s25fl064l_vhdl.dut.io3resetneg
+@800200
+-Internal
+@420
+top.testbench_s25fl064l_vhdl.dut.behavior.wrprot
+top.testbench_s25fl064l_vhdl.dut.behavior.current_state
+top.testbench_s25fl064l_vhdl.dut.behavior.instruct
+@22
+#{top.testbench_s25fl064l_vhdl.dut.behavior.sr1_nv[7:0]} top.testbench_s25fl064l_vhdl.dut.behavior.sr1_nv[7] top.testbench_s25fl064l_vhdl.dut.behavior.sr1_nv[6] top.testbench_s25fl064l_vhdl.dut.behavior.sr1_nv[5] top.testbench_s25fl064l_vhdl.dut.behavior.sr1_nv[4] top.testbench_s25fl064l_vhdl.dut.behavior.sr1_nv[3] top.testbench_s25fl064l_vhdl.dut.behavior.sr1_nv[2] top.testbench_s25fl064l_vhdl.dut.behavior.sr1_nv[1] top.testbench_s25fl064l_vhdl.dut.behavior.sr1_nv[0]
+#{top.testbench_s25fl064l_vhdl.dut.behavior.sr1_v[7:0]} top.testbench_s25fl064l_vhdl.dut.behavior.sr1_v[7] top.testbench_s25fl064l_vhdl.dut.behavior.sr1_v[6] top.testbench_s25fl064l_vhdl.dut.behavior.sr1_v[5] top.testbench_s25fl064l_vhdl.dut.behavior.sr1_v[4] top.testbench_s25fl064l_vhdl.dut.behavior.sr1_v[3] top.testbench_s25fl064l_vhdl.dut.behavior.sr1_v[2] top.testbench_s25fl064l_vhdl.dut.behavior.sr1_v[1] top.testbench_s25fl064l_vhdl.dut.behavior.sr1_v[0]
+@28
+top.testbench_s25fl064l_vhdl.dut.behavior.poweredup
+top.testbench_s25fl064l_vhdl.dut.behavior.wdone
+top.testbench_s25fl064l_vhdl.dut.behavior.reseted
+top.testbench_s25fl064l_vhdl.dut.behavior.wstart_nv
+@29
+top.testbench_s25fl064l_vhdl.dut.behavior.wstart_v
+@1000200
+-Internal
+-dut
+@420
+top.testbench_s25fl064l_vhdl.cmd
+top.testbench_s25fl064l_vhdl.tseries
+top.testbench_s25fl064l_vhdl.tcase
+[pattern_trace] 1
+[pattern_trace] 0
